@@ -1,0 +1,308 @@
+[
+  {
+    "year": 1990,
+    "thickness": 3.577850542364779,
+    "density": 0.5208500152681661,
+    "color_variation": 0.5808040271640325,
+    "growth_rate": 1.4311402169459115,
+    "weather_factor": 1.3476064353963955,
+    "stress_factor": 0.40126339843316455
+  },
+  {
+    "year": 1991,
+    "thickness": 3.9967765467621468,
+    "density": 0.5017469894676462,
+    "color_variation": 0.4508734947338231,
+    "growth_rate": 1.5987106187048588,
+    "weather_factor": 1.2810331022606198,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 1992,
+    "thickness": 3.8872098108983875,
+    "density": 0.5067432326230334,
+    "color_variation": 0.4533716163115167,
+    "growth_rate": 1.554883924359355,
+    "weather_factor": 1.1586099679217114,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 1993,
+    "thickness": 2.228624639317366,
+    "density": 0.5823747164471281,
+    "color_variation": 0.6068816852071915,
+    "growth_rate": 0.8914498557269465,
+    "weather_factor": 1.1614887735617467,
+    "stress_factor": 0.38564775661209194
+  },
+  {
+    "year": 1994,
+    "thickness": 1.6707710421516786,
+    "density": 0.6078128404778833,
+    "color_variation": 0.6783741267975348,
+    "growth_rate": 0.6683084168606714,
+    "weather_factor": 1.1598954593085957,
+    "stress_factor": 0.5815590218619776
+  },
+  {
+    "year": 1995,
+    "thickness": 4.011233720040635,
+    "density": 0.5274607814380495,
+    "color_variation": 0.46373039071902467,
+    "growth_rate": 1.604493488016254,
+    "weather_factor": 1.0756623415324922,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 1996,
+    "thickness": 3.1377032822948547,
+    "density": 0.5693902424498469,
+    "color_variation": 0.4846951212249233,
+    "growth_rate": 1.255081312917942,
+    "weather_factor": 1.0654016860403372,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 1997,
+    "thickness": 3.190484843041259,
+    "density": 0.5951995639107206,
+    "color_variation": 0.49759978195536014,
+    "growth_rate": 1.2761939372165036,
+    "weather_factor": 0.8921064277541675,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 1998,
+    "thickness": 2.927791893472991,
+    "density": 0.5794659891132964,
+    "color_variation": 0.489732994556648,
+    "growth_rate": 1.1711167573891965,
+    "weather_factor": 0.9693764873156553,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 1999,
+    "thickness": 3.2277682246428694,
+    "density": 0.5933204814779994,
+    "color_variation": 0.4966602407389995,
+    "growth_rate": 1.2911072898571478,
+    "weather_factor": 0.8705281601295662,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2000,
+    "thickness": 1.3839068508050585,
+    "density": 0.6535724711613572,
+    "color_variation": 0.6822850723912315,
+    "growth_rate": 0.5535627403220234,
+    "weather_factor": 0.9324384837964796,
+    "stress_factor": 0.518329456035177
+  },
+  {
+    "year": 2001,
+    "thickness": 3.693496125641902,
+    "density": 0.5155765766707292,
+    "color_variation": 0.4577882883353636,
+    "growth_rate": 1.4773984502567608,
+    "weather_factor": 1.1902042619731155,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2002,
+    "thickness": 2.346571049471174,
+    "density": 0.6073645896253835,
+    "color_variation": 0.6096210772163105,
+    "growth_rate": 0.9386284197884696,
+    "weather_factor": 0.9740702357152274,
+    "stress_factor": 0.3531292746787305
+  },
+  {
+    "year": 2003,
+    "thickness": 3.226187085426983,
+    "density": 0.5651430198995048,
+    "color_variation": 0.4825715099497528,
+    "growth_rate": 1.2904748341707932,
+    "weather_factor": 0.9292620522763808,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2004,
+    "thickness": 3.512182807456725,
+    "density": 0.5238444639799733,
+    "color_variation": 0.5219222319899863,
+    "growth_rate": 1.40487312298269,
+    "weather_factor": 1.2724209284305508,
+    "stress_factor": 0.2
+  },
+  {
+    "year": 2005,
+    "thickness": 1.8561742064216467,
+    "density": 0.5993584561871729,
+    "color_variation": 0.6302134583686821,
+    "growth_rate": 0.7424696825686586,
+    "weather_factor": 1.1682839639731701,
+    "stress_factor": 0.43511410091698927
+  },
+  {
+    "year": 2006,
+    "thickness": 1.741313068707305,
+    "density": 0.6045961240669468,
+    "color_variation": 0.6764248439888914,
+    "growth_rate": 0.696525227482922,
+    "weather_factor": 1.1169826611458455,
+    "stress_factor": 0.5804226065180614
+  },
+  {
+    "year": 2007,
+    "thickness": 1.3165166197447293,
+    "density": 0.656807202252253,
+    "color_variation": 0.7025303830815453,
+    "growth_rate": 0.5266066478978917,
+    "weather_factor": 1.0497923744960749,
+    "stress_factor": 0.5804226065180615
+  },
+  {
+    "year": 2008,
+    "thickness": 1.6433102504575643,
+    "density": 0.6411211079780369,
+    "color_variation": 0.6510947842641148,
+    "growth_rate": 0.6573241001830257,
+    "weather_factor": 0.9240962274047424,
+    "stress_factor": 0.4351141009169893
+  },
+  {
+    "year": 2009,
+    "thickness": 2.975738174802443,
+    "density": 0.5483063392290086,
+    "color_variation": 0.47415316961450316,
+    "growth_rate": 1.1902952699209772,
+    "weather_factor": 1.1271599088239073,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2010,
+    "thickness": 4.160349919987569,
+    "density": 0.4942880436485668,
+    "color_variation": 0.4471440218242829,
+    "growth_rate": 1.6641399679950275,
+    "weather_factor": 1.1305640778418484,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2011,
+    "thickness": 4.601639620237508,
+    "density": 0.4741652333171696,
+    "color_variation": 0.43708261665858505,
+    "growth_rate": 1.8406558480950033,
+    "weather_factor": 1.386190008747884,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2012,
+    "thickness": 2.712025709530525,
+    "density": 0.560331627645408,
+    "color_variation": 0.6190335500710166,
+    "growth_rate": 1.08481028381221,
+    "weather_factor": 1.496934914088852,
+    "stress_factor": 0.4628924541610484
+  },
+  {
+    "year": 2013,
+    "thickness": 2.7919222024287267,
+    "density": 0.5859877342834211,
+    "color_variation": 0.5654579527317374,
+    "growth_rate": 1.1167688809714906,
+    "weather_factor": 1.0384100372029352,
+    "stress_factor": 0.24154695196676024
+  },
+  {
+    "year": 2014,
+    "thickness": 3.7913393943814278,
+    "density": 0.5111149236162068,
+    "color_variation": 0.4555574618081028,
+    "growth_rate": 1.516535757752571,
+    "weather_factor": 1.472249952518411,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2015,
+    "thickness": 3.9277758926802457,
+    "density": 0.5048934192937807,
+    "color_variation": 0.4524467096468905,
+    "growth_rate": 1.5711103570720983,
+    "weather_factor": 1.4307174277759243,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2016,
+    "thickness": 3.294959098335727,
+    "density": 0.5337498651158907,
+    "color_variation": 0.46687493255794615,
+    "growth_rate": 1.3179836393342907,
+    "weather_factor": 1.2434444538440512,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2017,
+    "thickness": 4.014002408017186,
+    "density": 0.5009614901944163,
+    "color_variation": 0.45048074509720676,
+    "growth_rate": 1.6056009632068744,
+    "weather_factor": 1.2388911125869921,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2018,
+    "thickness": 4.306114313519173,
+    "density": 0.4876411873035256,
+    "color_variation": 0.4438205936517622,
+    "growth_rate": 1.7224457254076693,
+    "weather_factor": 1.3443115452523113,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2019,
+    "thickness": 3.6791011431507648,
+    "density": 0.516232987872325,
+    "color_variation": 0.4963449115124983,
+    "growth_rate": 1.471640457260306,
+    "weather_factor": 1.2118455399158614,
+    "stress_factor": 0.12742805858778616
+  },
+  {
+    "year": 2020,
+    "thickness": 3.2837737993042166,
+    "density": 0.5342599147517276,
+    "color_variation": 0.46712995737586166,
+    "growth_rate": 1.3135095197216866,
+    "weather_factor": 1.1640699687061673,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2021,
+    "thickness": 2.771410594362506,
+    "density": 0.5869722914705997,
+    "color_variation": 0.4934861457352984,
+    "growth_rate": 1.1085642377450022,
+    "weather_factor": 1.0950442182670723,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2022,
+    "thickness": 3.685091775025912,
+    "density": 0.5159598150588183,
+    "color_variation": 0.45797990752940837,
+    "growth_rate": 1.4740367100103646,
+    "weather_factor": 1.4376934921061755,
+    "stress_factor": 0.0
+  },
+  {
+    "year": 2023,
+    "thickness": 3.1917927373979604,
+    "density": 0.538454251174653,
+    "color_variation": 0.4692271255873264,
+    "growth_rate": 1.2767170949591842,
+    "weather_factor": 1.24541873054488,
+    "stress_factor": 0.0
+  }
+]
