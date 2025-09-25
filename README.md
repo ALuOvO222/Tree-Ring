@@ -2,6 +2,14 @@
 
 一个优雅的树轮生长动画程序，结合自然音乐和真实环境数据，呈现树木34年（1990-2023）的生长历程。
 
+## 📸 预览展示
+
+### 🎬 动画效果
+![Tree Ring Animation](tree_ring_animation.gif)
+
+### 🖼️ 静态预览
+![Tree Ring Preview](tree_ring_preview.png)
+
 ## ✨ 核心特色
 
 ### 🎵 音乐与动画同步
